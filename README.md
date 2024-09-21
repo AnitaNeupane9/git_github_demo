@@ -1,4 +1,4 @@
 # git_github_demo
 git and github practice 
 <br>
-Author - Anita Neupane
+Author - Anita Neupane (Alien)
